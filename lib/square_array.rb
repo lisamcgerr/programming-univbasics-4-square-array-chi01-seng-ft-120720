@@ -5,5 +5,6 @@ def square_array(array)
 while array.length.times do
   puts new_array.push(array[index] ** index )
 end
-
-new_array
+puts new_array
+end
+square_array(array)
