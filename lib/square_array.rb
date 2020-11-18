@@ -4,12 +4,9 @@ counter = 0
 
 def square_array(array)
   while array[counter] >= 0 do
-    puts new_array(array[counter]
-
-
-def square_array(array)
-while array.length.times do |index|
-  puts new_array.push(array[index] ** index )
+    puts new_array.push(array[counter] ** 2)
+    counter += 1 
 end
 
-square_array(array)
+
+
