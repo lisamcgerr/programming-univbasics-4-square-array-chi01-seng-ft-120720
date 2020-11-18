@@ -3,7 +3,8 @@ array = [1, 2, 3, 4, 5]
 counter
 
 def square_array(array)
-  while array.length
+  while array[index] >= 0 do
+    array
 
 
 def square_array(array)
