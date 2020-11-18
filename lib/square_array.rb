@@ -1,10 +1,10 @@
 new_array = []
 array = [1, 2, 3, 4, 5]
-counter
+counter = 0
 
 def square_array(array)
-  while array[index] >= 0 do
-    array
+  while array[counter] >= 0 do
+    puts new_array(array[counter]
 
 
 def square_array(array)
